@@ -77,3 +77,12 @@ thead th {
   letter-spacing: 4px;
   text-transform: uppercase;
 }
+p {
+ font-size: 17px;
+ font-family: sans-serif;
+}
+#overzicht {
+ font-family: sans-serif;
+ font-size: 16px;
+ color: #000000;
+}
