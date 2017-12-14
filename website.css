@@ -24,25 +24,25 @@ h1 {
   float: left;
 }
 ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color: #d3d3d3;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #d3d3d3;
   margin-top: 150px;
 }
 #balk {
-	float: left;
+  float: left;
 }
 #balk a {
-	display: block;
-	color: #000000;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 #balk a:hover {
-	background-color: #939393;
+  background-color: #939393;
 }
 #fotos1 {
   height: 20%;
@@ -78,12 +78,12 @@ thead th {
   text-transform: uppercase;
 }
 p {
- font-size: 17px;
- font-family: sans-serif;
- text-align: left;
+  font-size: 17px;
+  font-family: sans-serif;
+  text-align: left;
 }
 #overzicht {
- font-family: sans-serif;
- font-size: 16px;
- color: #000000;
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #000000;
 }
