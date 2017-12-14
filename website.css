@@ -80,6 +80,7 @@ thead th {
 p {
  font-size: 17px;
  font-family: sans-serif;
+ text-align: left;
 }
 #overzicht {
  font-family: sans-serif;
