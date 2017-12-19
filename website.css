@@ -7,13 +7,16 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
+#paginas {
+  background-color: #C0C0C0;
+}
 h1 {
   border: 1px solid black;
   background-color: #000000;
   color: #FFFFFF;
   font-family: passion one;
-  font-size: 40px;
-  padding: 20px 10px 20px 10px;
+  font-size: 275%;
+  padding: 1%;
   margin-right: 30%;
   margin-left: 37%;
   margin-top: 2%;
@@ -33,6 +36,14 @@ h1 {
   overflow: hidden;
   background-color: #d3d3d3;
   margin-top: 11%;
+}
+#regel {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #d3d3d3;
+  margin-top: 6%;
 }
 #balk {
   float: left;
@@ -55,7 +66,8 @@ h1 {
   text-decoration: none;
   font-family: sans-serif;
   color: #000000;
-  font-size: 17px;
+  font-size: 100%;
+  font-weight: bold;
 }
 table, th, td {
   border: 1px solid black;
@@ -64,7 +76,7 @@ table, th, td {
 }
 th, td {
   font-family: 'Lato', arial;
-  font-size: 14px;
+  font-size: 100%;
   font-weight: 400;
   padding: 20px;
   text-align: left;
@@ -74,19 +86,19 @@ thead th {
   background: #999d9f;
   color: #000000;
   font-family: 'Lato', sans-serif;
-  font-size: 16px;
-  font-weight: 100;
+  font-size: 100%;
+  font-weight: bold;
   letter-spacing: 4px;
   text-transform: uppercase;
 }
 #tekst {
   font-family: sans-serif;
-  font-size: 17px;
+  font-size: 115%;
   text-align: left;
 }
 #overzicht {
   font-family: sans-serif;
-  font-size: 16px;
+  font-size: 100%;
   color: #000000;
 }
 ol {  
@@ -96,7 +108,7 @@ ol { 
 }
 #inleiding {
   font-family: sans-serif;
-  font-size: 20px;
+  font-size: 140%;
   margin-right: 65%;
   position: absolute;
 }
@@ -108,3 +120,27 @@ ol { 
   height: 15%;
   width: 12%;
 }
+#tabel2 {
+  border-style: none;
+}
+#tabelfotos {
+  height: 31%;
+  width: 85%;
+}
+#tabeltekst {
+  border-style: none;
+  font-size: 150%;
+  font-weight: bold;
+}
+#us {
+  position: absolute;
+  font-size: 135;
+  font-family: sans-serif;
+  margin-right: 55%;
+}
+#insta {
+  position: absolute;
+  margin-left: 75%;
+  height: 75%;
+}
+    
